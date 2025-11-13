@@ -41,3 +41,9 @@ Contorch is designed for developers and small teams who want simple, powerful co
 Run Contorch:
 
 Coming soon
+
+
+## License
+Contorch is open-source software licensed under the **Apache License 2.0**.  
+See the [LICENSE](LICENSE) file for details.
+
